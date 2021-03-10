@@ -1,6 +1,4 @@
 # Safira Nur Fauziah
-# A11.2019.11718
-# A11.4321
 
 # Transkrip Nilai Mahasiswa
 """Membuat Transkrip Nilai Mahasiswa, jika diinputkan - 
